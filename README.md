@@ -40,3 +40,5 @@ export FOO=foo
 * **tests/**: Houses integration tests.
 * **target/**: Contains compiled files & executables.
 * **ui/**: Use it for your frontend. Remove if unnecessary.
+
+<!-- git remote set-url origin https://<github-key>@github.com/txtyash/cavity -->
